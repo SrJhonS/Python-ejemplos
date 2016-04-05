@@ -1,6 +1,6 @@
 class Persona():
 
-    def __init__(self, nombre, apellido, edad):
+    def __init__(self, nombre, apellido, edad):#El constructor
         self.nombre = nombre
         self.apellido = apellido
         self.edad = edad
